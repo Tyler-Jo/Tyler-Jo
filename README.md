@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tyler-Jo
-- 👀 I’m interested in Data Preparation, Analyzation, and Neuron Network
+- 👀 I’m interested in Data Preparation, Analyzation, and Neural Network
 - 🌱 I’m currently learning 
 - 📫 How to reach me Quiet_jun(Instagram)
 
